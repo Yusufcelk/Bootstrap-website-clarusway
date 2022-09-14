@@ -1,4 +1,4 @@
-<h1>THIS WEBSITE MAKING WITH BOOTSTRAP </h1> <br>
+<h1>This website made with Bootstrap</h1> <br>
 
 <p>Hello this my first Bootstrap project<p> <br>
 
